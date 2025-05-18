@@ -76,7 +76,6 @@ terraform destroy -auto-approve
 - The Terraform state is stored remotely in an S3 bucket for collaboration and state locking.
 
 ---
-✅ **Author:** *Your Name*  
-📜 **License:** MIT  
+✅ **Author:** *Joshua Pella*    
 🚀 **Happy Terraforming!**
 
